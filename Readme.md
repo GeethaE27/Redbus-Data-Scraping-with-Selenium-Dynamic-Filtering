@@ -2,7 +2,10 @@
 # Redbus Data Scraping with Selenium & Dynamic Filtering using Streamlit
 
 **Skills take away** 
-Web Scraping using Selenium, Python, Streamlit , SQL
+1. Web Scraping using Selenium
+2. Python
+3. Streamlit 
+4. SQL
 
 **Domain**
 Transportation
